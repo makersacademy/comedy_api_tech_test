@@ -13,7 +13,7 @@ Brief
 
 To design a new website for the Comedy Store.  The Comedy Store Marketeers are demanding that the website include a new and different joke every time a visitor visits the site.  Users who log in should never see the same joke twice (up to the limit of jokes available).
 
-The site should display dates of upcoming comedy store events and a custom joke at the top of the page.
+The site should display dates of upcoming comedy store events (make some up or grab some from the [real comedy store site](http://thecomedystore.co.uk/)) and a custom joke at the top of the page.
 
 Use the Chuck Norris Joke API to get random jokes for a first prototype.  Then develop your own RESTful joke API to increase the range of possible jokes.  Follow the base operation of the Chuck Norris joke API, but extend as appropriate.
 
