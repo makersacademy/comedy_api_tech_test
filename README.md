@@ -20,3 +20,8 @@ Use the Chuck Norris Joke API to get random jokes for a first prototype.  Then d
 You are free to use any front end and back end technologies that you prefer.  You're solution will be judged on clean separation of concerns, effective use of TDD, BDD and OOD techniques.
 
 Ensure that your solution is a responsive single page app that can be easily switched between different joke APIs.
+
+Bonus Level
+-----------
+
+Set up CI with Hound and Coveralls on your git repo
