@@ -24,4 +24,4 @@ Ensure that your solution is a responsive single page app that can be easily swi
 Bonus Level
 -----------
 
-Set up CI with Hound and Coveralls on your git repo
+Set up CI with [Travis](https://travis-ci.org/), [Hound](https://houndci.com/) and [Coveralls](https://coveralls.io/) on your git repo.
